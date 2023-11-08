@@ -1,0 +1,4 @@
+1) Created a common components name skeleton loader which has purpose to show loader and structure is dedined.
+2) Created a MainComponent which is basically a Main container where laoder and Main content will load.
+3) UseMainState file is there where all logic and side effects is written.
+4) I was trying to get size of lines in paragraph and also image so based on size image and paragraph it wll load container.
