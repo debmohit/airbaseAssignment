@@ -1,0 +1,38 @@
+.container {
+    color: 10px solid #80808033;
+    width: 500px;
+    padding: 10px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+.para {
+    font-weight: lighter;
+    font-size: large;
+    line-height: 1em;
+    width: 25em;
+}
+
+footer {
+    line-height: 1rem;
+}
+
+.avatar img {
+    height: 300px;
+    width: 400px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.image img {
+    height: 70%;
+    width: 70%;
+    border-radius: 8px;
+}
+
+.error {
+    color: red;
+}
